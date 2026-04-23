@@ -1,0 +1,16 @@
+{
+  "name": "website-w3schools-com",
+  "version": "1.0.0",
+  "description": "📱 Website design extracted from w3schools.com",
+  "main": "index.html",
+  "keywords": [
+    "website",
+    "design",
+    "html",
+    "css",
+    "frontend",
+    "w3schools"
+  ],
+  "author": "Extracted by Web Design Ripper",
+  "license": "MIT"
+}
